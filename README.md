@@ -57,7 +57,6 @@ Ve všech sledovaných odvětvích byla průměrná mzda v roce 2018 vyšší ne
 V roce 2006 bylo možné koupit:
 1 437,46 l mléka
 1 287,17 kg chleba
-   
 V roce 2018 bylo možné koupit:
 1 641,77 l mléka
 1 342,32 kg chleba
